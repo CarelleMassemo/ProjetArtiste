@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetArtiste1
+build_property.RootNamespace = ProjetArtiste1
+build_property.ProjectDir = C:\Users\Massemo\Documents\ProjetArtiste5\ProjetArtiste4\ProjetArtiste1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Massemo\Documents\ProjetArtiste5\ProjetArtiste4\ProjetArtiste1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Account/RegisterCompleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RlckNvbXBsZXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Account/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Home/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Oeuvre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2V1dnJlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Oeuvre/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2V1dnJlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Oeuvre/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2V1dnJlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Oeuvre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2V1dnJlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Oeuvre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2V1dnJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Orders/CompleteOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENvbXBsZXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Orders/OrderCompleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE9yZGVyQ29tcGxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Orders/ShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFNob3BwaW5nQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Shared/_CreateItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DcmVhdGVJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Shared/_Identity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JZGVudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massemo/Documents/ProjetArtiste5/ProjetArtiste4/ProjetArtiste1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n6yqy1ohun

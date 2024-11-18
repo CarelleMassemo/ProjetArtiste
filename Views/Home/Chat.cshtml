@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewData["Title"] = "Chat";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Chat.css" asp-append-version="true"/>
+
+
+@* <div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-2">User</div>
+        <div class="col-4"><input type="text" id="txtUser" /></div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-2">Message</div>
+        <div class="col-4">
+            <textarea id="txtMessage" rows="2" style="width:100%;"></textarea>
+        </div>
+        <div class="col-6">
+            <input type="button" id="btnSendMessage" value="Send Message" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <hr />
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <ul id="messagesList"></ul>
+    </div>
+
+</div> *@
+
+<div id="chatContainer">
+    <div id="chatHeader">
+        <h1>ARTIPAM CHATROOM</h1>
+    </div>
+    <div class="row user">
+        <div class="col-2" style="color: #fff; font-size: 19px;">Nom d'tilisateur</div>
+        <div class="col-2"><input type="text" id="txtUser" placeholder="Entrer votre nom" class="userInput" /></div>
+    </div>
+    <div id="chatBox">
+        <div class="message">
+           @*  <span class="sender">Adrien</span>
+            <span class="content">Hi</span> *@
+            <div class="row">
+                <div class="col-6">
+                    <ul id="messagesList" class="content"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="messageInputContainer">
+        <input type="text" id="txtMessage" placeholder="Entrer votre message ici...">
+        @* <input type="button" id="btnSendMessage" value="Envoyer" /> *@
+        <a class="btn btn-primary" id="btnSendMessage" value="Envoyer" >Envoyer</a>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/chat.js"></script>
+
+}

@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Oeuvre>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="~/css/oeuvre.css" asp-append-version="true"/>
+
+<section class="homepage" id="home">
+    <div class="content">
+        <div class="text">
+            <h1>NOS OEUVRES D'ART</h1>
+            <p>
+                "Explorez un monde d'expressions artistiques captivantes, où chaque œuvre d'art <br /> 
+                est une invitation à la contemplation, à la réflexion et à l'émerveillement."
+            </p>
+        </div>
+    </div>
+</section>
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+    @* <p>
+        <a asp-action="Create">Create New</a>
+    </p> *@
+}
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-6 col-xs-6 border-primary mb-3">
+            <div class="card mr-6">
+                <div class="categories">
+
+                    <div class="type">
+                        <div class="oeuvres">
+                            <div class="img">
+                                <img src="@item.imageURL" alt="" width="250px" height="400px">
+                            </div>
+                            <div class="infos">
+                                <div class="nom">
+                                    <h1>@item.nom</h1>
+                                </div>
+                                <div class="desc">
+                                    <p>
+                                        <span style="font-size: 19px; font-weight: bold; color: #08B663;">Description: </span>
+                                        @item.description
+                                    </p>
+                                </div>
+                                <div class="prix">
+                                    <p><span style="font-size: 19px; font-weight: bold; color: #08B663;">Prix: </span>@item.prix</p>
+                                </div>
+                                <div class="date">
+                                    <p><span style="font-size: 19px; font-weight: bold; color: #08B663;">Date de Creation: </span>@item.dateCreation.ToString("dd MMM yy")</p>
+                                </div>
+                                <div class="date">
+                                    <p><span style="font-size: 19px; font-weight: bold; color: #08B663;">Categorie: </span>@item.oeuvreCategorie</p>
+                                </div>
+
+                                <a class="btn btn-success text-white"
+                                   asp-controller="Orders"
+                                   asp-action="AddItemToShoppingCart"
+                                   asp-route-id="@item.Id">
+                                    <i class="bi bi-cart-plus"></i> Add to Cart (prix @item.prix.ToString("c"))
+                                </a>
+                                <a class="btn btn-info text-white float-right" asp-action="Details" asp-route-id="@item.Id">
+                                    <i class="bi bi-eye-fill"></i> Show Details
+                                </a>
+
+                                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                {
+                                    <div class="buttons">
+                                        <a class="btn btn-primary btn-lg w-100 fs-6 text-white float-right" asp-action="Edit" asp-route-id="@item.Id">
+                                            <i class="bi bi-pencil-square"></i> Edit
+                                        </a>
+                                        <a class="btn btn-danger btn-lg w-100 fs-6 text-white float-right" asp-action="Delete" asp-route-id="@item.Id">
+                                            <i class="bi bi-pencil-square"></i> Delete
+                                        </a>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+
+        
+
+
+
+
+
+
+    }
+</div>
+
+@await Html.PartialAsync("_CreateItem", "Oeuvre")

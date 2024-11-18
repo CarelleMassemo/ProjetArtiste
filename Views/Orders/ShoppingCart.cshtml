@@ -1,0 +1,220 @@
+﻿@* 
+@{
+    ViewData["Title"] = "ShoppingCart";
+}
+
+<h1>ShoppingCart</h1> *@
+@using ProjetArtiste1.Data.ViewModels;
+@model CommandeVM
+
+@{
+    ViewData["Title"] = "Facture d'achat";
+}
+
+<link rel="stylesheet" href="" asp-append-version="true"/>
+
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <div class="text-center">
+            <h2>VOTRE PANIER</h2>
+        </div>
+
+        @* <table class="table">
+            <thead>
+                <tr>
+                    <th>Apercu de l'oeuvre</th>
+                    <th>Selectionner la quantite</th>
+                    <th>Oeuvre</th>
+                    <th>Prix</th>
+                    <th>total</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.commande.LigneCommandes)
+                {
+                    <tr>
+                         <td class="align-middle">
+                            <div class="form-group text-center">
+                                <img src="@item.oeuvre.imageURL" class="border-info rounded-circle" style="max-width: 80px" />
+                            </div>
+                        </td>
+                         <td class="align-middle">@item.quantite</td>
+                        <td class="align-middle">@item.oeuvre.nom</td>
+                        <td class="align-middle">@item.oeuvre.prix.ToString("c")</td>
+                        <td class="align-middle">@((item.quantite*item.oeuvre.prix).ToString("c"))</td>
+                        <td class="align-middle">
+                            <a class="text-danger" asp-controller="Orders" asp-action="RemoveItemFromShoppingCart"
+                               asp-route-id="@item.oeuvre.Id">
+                                <i class="bi bi-cart-dash"></i>
+                            </a>
+                            |
+                            <a class="text-success" asp-controller="Orders" asp-action="AddItemToShoppingCart"
+                               asp-route-id="@item.oeuvre.Id">
+                                <i class="bi bi-cart-plus"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2"></td>
+                    <td><b>Total:</b></td>
+                    <td>
+                        @Model.ShoppingCartTotal.ToString("c")
+                    </td>
+                    <td></td>
+                </tr>
+            </tfoot>
+        </table> *@
+
+        <div class="content">
+            <div class="items">
+                <div class="item">
+                    <div class="heading">
+                        <h1 class="title">Récents Visiteurs</h1>
+                    </div>
+                    <table>
+                        <thead>
+                        <th>Apercu de l'oeuvre</th>
+                        <th>Selectionner la quantite</th>
+                        <th>Oeuvre</th>
+                        <th>Prix</th>
+                        <th>total</th>
+                        <th></th>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.commande.LigneCommandes)
+                            {
+                                <tr>
+                                    <td class="align-middle">
+                                        <div class="form-group text-center">
+                                            <img src="@item.oeuvre.imageURL" class="border-info rounded-circle" style="max-width: 80px" />
+                                        </div>
+                                    </td>
+                                    <td class="align-middle">@item.quantite</td>
+                                    <td class="align-middle">@item.oeuvre.nom</td>
+                                    <td class="align-middle">@item.oeuvre.prix.ToString("c")</td>
+                                    <td class="align-middle">@((item.quantite * item.oeuvre.prix).ToString("c"))</td>
+                                    <td class="align-middle">
+                                        <a class="text-danger" asp-controller="Orders" asp-action="RemoveItemFromShoppingCart"
+                                           asp-route-id="@item.oeuvre.Id">
+                                            <i class="bi bi-cart-dash"></i>
+                                        </a>
+                                        |
+                                        <a class="text-success" asp-controller="Orders" asp-action="AddItemToShoppingCart"
+                                           asp-route-id="@item.oeuvre.Id">
+                                            <i class="bi bi-cart-plus"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="2"></td>
+                                <td><b>Total:</b></td>
+                                <td>
+                                    @Model.ShoppingCartTotal.ToString("c")
+                                </td>
+                                <td></td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+                <div class="item">
+                </div>
+            </div>
+        </div>
+
+
+        <div class="text-right">
+            <div class="btn-group">
+                @*<a class="btn btn-outline-primary" asp-action="CompleteOrder">
+                        Complete order
+                    </a>*@
+                <div id="paypal-btn"></div>
+                <span style="padding:5px"></span>
+                <a class="btn btn-outline-success" asp-controller="Oeuvre" asp-action="Index">
+                    Add more items
+                </a>
+
+                <button id="printButton" class="btn btn-primary">Imprimer</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<script>
+    document.getElementById('printButton').addEventListener('click', function () {
+        window.print();
+    })
+</script>
+
+
+@section Scripts {
+    <script>
+
+        $(document).ready(function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $("#imageURL").val();
+        })
+
+        $("#imageURL").on("change", function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $(this).val();
+        })
+    </script>
+}
+
+@* @section Scripts{
+
+    <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+
+    <script>
+
+        let _total = @Html.Raw(Model.ShoppingCartTotal);
+
+        paypal.Button.render({
+            //Configure environment
+            env: 'sandbox',
+            client: {
+                sandbox: 'AcKRtgL4i68EZ2ZYuYUx3ilihAg2YhL5dtF_m19A8MjBWVOn6ewNS4M_uV8gA3xi98zTcUq38gUHbVFx'
+            },
+
+            //Customize button
+            locale: 'en_US',
+            style: {
+                size: 'small',
+                color: 'gold',
+                shape: 'pill'
+            },
+            commit: true,
+
+            //Set up a payment
+            payment: function (data, actions) {
+                return actions.payment.create({
+                    transactions: [{
+                        amount: {
+                            total: _total,
+                            currency: 'USD'
+                        }
+                    }]
+                });
+            },
+
+            //Execute the payment
+            onAuthorize: function (data, actions) {
+                return actions.payment.execute().then(function () {
+                    var url = '@Url.Action("CompleteOrder", "Orders", new { })';
+                    window.location.href = url;
+                });
+            }
+
+        }, '#paypal-btn')
+    </script>
+}
+ *@

@@ -1,0 +1,753 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjetArtiste1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjetArtiste1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\Biographie.css",
+      "PackagePath": "staticwebassets\\css\\Biographie.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\Chat.css",
+      "PackagePath": "staticwebassets\\css\\Chat.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\Commande.css",
+      "PackagePath": "staticwebassets\\css\\Commande.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\Create.css",
+      "PackagePath": "staticwebassets\\css\\Create.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\Details.css",
+      "PackagePath": "staticwebassets\\css\\Details.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\Galerie.css",
+      "PackagePath": "staticwebassets\\css\\Galerie.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\oeuvre.css",
+      "PackagePath": "staticwebassets\\css\\oeuvre.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\54868899-19d7-4d7b-820a-336b5b8c3fc0.jpg",
+      "PackagePath": "staticwebassets\\imgs\\54868899-19d7-4d7b-820a-336b5b8c3fc0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\HomeDeco\\5d917409-925d-4288-9d08-b180720f5cb8.jpg",
+      "PackagePath": "staticwebassets\\imgs\\HomeDeco\\5d917409-925d-4288-9d08-b180720f5cb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\HomeDeco\\Art Africain, masques d'Afrique _ statues, sculptures, bronzes (1).jpg",
+      "PackagePath": "staticwebassets\\imgs\\HomeDeco\\Art Africain, masques d'Afrique _ statues, sculptures, bronzes (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\HomeDeco\\Porteuses d'Eau - Tableau Africain - 80 x 80 cm.jpg",
+      "PackagePath": "staticwebassets\\imgs\\HomeDeco\\Porteuses d'Eau - Tableau Africain - 80 x 80 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\HomeDeco\\Profil d'Or - Tableau Africain - 30 x 40 cm.jpg",
+      "PackagePath": "staticwebassets\\imgs\\HomeDeco\\Profil d'Or - Tableau Africain - 30 x 40 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\HomeDeco\\f3e78916-12f0-4a3f-90d0-f3e272d46cc3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\HomeDeco\\f3e78916-12f0-4a3f-90d0-f3e272d46cc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\HomeDeco\\Élégance Éternelle - Tableau Africain - 75 x 100 cm.jpg",
+      "PackagePath": "staticwebassets\\imgs\\HomeDeco\\Élégance Éternelle - Tableau Africain - 75 x 100 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Porteuses d'Eau - Tableau Africain - 80 x 80 cm.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Porteuses d'Eau - Tableau Africain - 80 x 80 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\48e9620d-1f12-4ffc-a0a6-e2088bbdf0e3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\48e9620d-1f12-4ffc-a0a6-e2088bbdf0e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\54868899-19d7-4d7b-820a-336b5b8c3fc0.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\54868899-19d7-4d7b-820a-336b5b8c3fc0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\Afro I.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\Afro I.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\Art Africain et Océanien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\Art Africain et Océanien.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\Charles-Henri-Joseph Cordier - African Venus [1851].jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\Charles-Henri-Joseph Cordier - African Venus [1851].jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\Historical Hairstyles.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\Historical Hairstyles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\Leilão em 20_7_2019.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\Leilão em 20_7_2019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\c1a2479c-0f54-4d85-8300-1f02778e31c3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\c1a2479c-0f54-4d85-8300-1f02778e31c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\pexels-adrien-olichon-2823459.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\pexels-adrien-olichon-2823459.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\pexels-chait-goli-2031774.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\pexels-chait-goli-2031774.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\Sculture\\pexels-mark-neal-2119642.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Sculture\\pexels-mark-neal-2119642.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\WhatsApp Image 2024-03-05 à 11.44.50_fa27e5dd.jpg",
+      "PackagePath": "staticwebassets\\imgs\\WhatsApp Image 2024-03-05 à 11.44.50_fa27e5dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\aa61e5d2-3a7e-4d8a-9e66-b45c9674f395.jpg",
+      "PackagePath": "staticwebassets\\imgs\\aa61e5d2-3a7e-4d8a-9e66-b45c9674f395.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\artiste.jpg",
+      "PackagePath": "staticwebassets\\imgs\\artiste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\020de6ab-714b-49c1-a435-0ad69f6a6858.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\020de6ab-714b-49c1-a435-0ad69f6a6858.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Brotherhood assembly-in honor of Nelson Mandela.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Brotherhood assembly-in honor of Nelson Mandela.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Disney _ 9 photos magnifiques qui montrent à quoi ressembleraient les princesses Disneys si elles étaient noires - TediDev.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Disney _ 9 photos magnifiques qui montrent à quoi ressembleraient les princesses Disneys si elles étaient noires - TediDev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\June 3, 2008- Barack Obama secured the 2008 U_S….jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\June 3, 2008- Barack Obama secured the 2008 U_S….jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Martin Luther King, Jr_.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Martin Luther King, Jr_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Mawimbi.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Mawimbi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Michelle Obama by matchugrams on DeviantArt.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Michelle Obama by matchugrams on DeviantArt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Most Impressive Celebrity Caricatures I've Ever Seen.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Most Impressive Celebrity Caricatures I've Ever Seen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Nelson Mandela - Pancarta _Bogotá Negra__ in 2020 _ Typography portrait, Psychedelic art, Pop art.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Nelson Mandela - Pancarta _Bogotá Negra__ in 2020 _ Typography portrait, Psychedelic art, Pop art.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Nelson Mandela Tribute Illustration.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Nelson Mandela Tribute Illustration.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\The Dangerous Doctor King _ The Saturday Evening Post.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\The Dangerous Doctor King _ The Saturday Evening Post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\Vendutera Obra Del Pintor Dominicano Eus, Pintura por Eusebio Vidal _ Artmajeur.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\Vendutera Obra Del Pintor Dominicano Eus, Pintura por Eusebio Vidal _ Artmajeur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\aa61e5d2-3a7e-4d8a-9e66-b45c9674f395.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\aa61e5d2-3a7e-4d8a-9e66-b45c9674f395.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\bcac20e7-a413-4dd1-bed7-c96035cc563e.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\bcac20e7-a413-4dd1-bed7-c96035cc563e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\d4e94fe4-8b94-4639-ac5c-9a65ac9f0d06.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\d4e94fe4-8b94-4639-ac5c-9a65ac9f0d06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\f3d9328f-d3cf-4ce8-8dab-992698dda653.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\f3d9328f-d3cf-4ce8-8dab-992698dda653.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\peinture\\tête africaine en pagne.jpg",
+      "PackagePath": "staticwebassets\\imgs\\peinture\\tête africaine en pagne.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\pexels-chait-goli-2031774.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pexels-chait-goli-2031774.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\imgs\\télécharger (1).jpg",
+      "PackagePath": "staticwebassets\\imgs\\télécharger (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\js\\Chat.js",
+      "PackagePath": "staticwebassets\\js\\Chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\js\\Galerie.js",
+      "PackagePath": "staticwebassets\\js\\Galerie.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\js\\Home.js",
+      "PackagePath": "staticwebassets\\js\\Home.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\js\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\js\\Newchat.js",
+      "PackagePath": "staticwebassets\\js\\Newchat.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\signalr\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\signalr\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Massemo\\Documents\\ProjetArtiste5\\ProjetArtiste4\\ProjetArtiste1\\wwwroot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjetArtiste1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProjetArtiste1.props",
+      "PackagePath": "build\\ProjetArtiste1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjetArtiste1.props",
+      "PackagePath": "buildMultiTargeting\\ProjetArtiste1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjetArtiste1.props",
+      "PackagePath": "buildTransitive\\ProjetArtiste1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

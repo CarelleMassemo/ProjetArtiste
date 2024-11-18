@@ -1,0 +1,130 @@
+﻿@model ProjetArtiste1.Models.Oeuvre
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<link rel="stylesheet" href="~/css/Create.css" />
+
+
+<div class="row">
+    <!----------------------- Main Container -------------------------->
+    <div class="container d-flex justify-content-center align-items-center min-vh-100">
+        <!----------------------- Login Container -------------------------->
+        <div class="row border rounded-5 p-3 bg-white shadow box-area">
+            <!--------------------------- Left Box ----------------------------->
+            <div class="col-md-6 rounded-4 d-flex align-items-center flex-column left-box" style="background: #103cbe; padding-top: 2rem;">
+                <p class="text-white fs-2" style="font-weight: 600;">Affichage de l'image</p>
+                <div class="featured-image mb-3">
+                    <img id="ProfilePicturePreview" class="border-info" style="width: 100%; border-radius: 8px;" />
+                </div>
+
+            </div>
+            <!-------------------- ------ Right Box ---------------------------->
+
+            <div class="col-md-6 right-box">
+                <div class="row align-items-center">
+                    <div class="header-text mb-4">
+                        <h2>Suppression de l'oeuvre @Html.DisplayFor(model => model.nom)</h2>
+                        <p>Etes vous sur de vouloir supprimer cette oeuvre ?</p>
+                    </div>
+                    <form>
+                        <div class="input-group mb-3">
+                            <input class="form-control form-control-lg bg-light fs-6" placeholder="@Html.DisplayFor(model => model.nom)" readonly>
+                        </div>
+                        <div class="input-group mb-1">
+                            <input class="form-control form-control-lg bg-light fs-6" placeholder="@Html.DisplayFor(model => model.description)" readonly>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input class="form-control form-control-lg bg-light fs-6" placeholder="@Html.DisplayFor(model => model.prix)" readonly>
+                        </div>
+                        <div class="input-group mb-1">
+                            <input class="form-control form-control-lg bg-light fs-6" type="text" id="imageURL" value="@Model?.imageURL" readonly />
+                        </div>
+                        <div class="input-group mb-3">
+                            <input class="form-control form-control-lg bg-light fs-6" placeholder="@Html.DisplayFor(model => model.dateCreation)" readonly>
+                        </div>
+                        <div class="input-group mb-1">
+                            <input class="form-control form-control-lg bg-light fs-6" placeholder="@Html.DisplayFor(model => model.oeuvreCategorie)" readonly>
+                        </div>
+                        
+                    </form>
+                    <form asp-action="Delete">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                        <a asp-action="Index">Back to List</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    <script>
+
+        $(document).ready(function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $("#imageURL").val();
+        })
+
+        $("#imageURL").on("change", function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $(this).val();
+        })
+    </script>
+}
+
+@* </div>
+<div>
+    <h4>Oeuvre</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.prix)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.prix)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.imageURL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.imageURL)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dateCreation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dateCreation)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.oeuvreCategorie)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.oeuvreCategorie)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+ *@

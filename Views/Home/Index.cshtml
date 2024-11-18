@@ -1,0 +1,194 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+<!-- carousel -->
+<div class="carousel">
+    <!-- list item -->
+    <div class="list">
+        <div class="item">
+            <img src="~/imgs/54868899-19d7-4d7b-820a-336b5b8c3fc0.jpg">
+            <div class="content">
+                <div class="author">From Cameroun</div>
+                <div class="title">DESIGN BY HENRY VENUS</div>
+                <div class="topic">INSPIRED</div>
+                <div class="des">
+                    <!-- lorem 50 -->
+                    venez decouvrir l'histoire et le quotidien de l'afrique a travers nos oeuvres
+                    Que vous soyez à la recherche de peintures vibrantes,
+                    de sculptures captivantes ou de photographies émouvantes,
+                    notre sélection méticuleusement curatée répondra à vos goûts
+                    et à votre esthétique. Nous nous engageons à promouvoir des
+                    talents émergents ainsi que des artistes établis, offrant ainsi
+                    une plateforme pour qu'ils puissent partager leur vision unique
+                    avec le monde
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/imgs/aa61e5d2-3a7e-4d8a-9e66-b45c9674f395.jpg">
+            <div class="content">
+                <div class="author">From Cameroun</div>
+                <div class="title">DESIGN BY HENRY VENUS</div>
+                <div class="topic">INSPIRED</div>
+                <div class="des">
+                    <!-- lorem 50 -->
+                    venez decouvrir l'histoire et le quotidien de l'afrique a travers nos oeuvres
+                    Que vous soyez à la recherche de peintures vibrantes,
+                    de sculptures captivantes ou de photographies émouvantes,
+                    notre sélection méticuleusement curatée répondra à vos goûts
+                    et à votre esthétique. Nous nous engageons à promouvoir des
+                    talents émergents ainsi que des artistes établis, offrant ainsi
+                    une plateforme pour qu'ils puissent partager leur vision unique
+                    avec le monde
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/imgs/pexels-chait-goli-2031774.jpg">
+            <div class="content">
+                <div class="author">From Cameroun</div>
+                <div class="title">DESIGN BY HENRY VENUS</div>
+                <div class="topic">INSPIRED</div>
+                <div class="des">
+                    <!-- lorem 50 -->
+                    venez decouvrir l'histoire et le quotidien de l'afrique a travers nos oeuvres
+                    Que vous soyez à la recherche de peintures vibrantes,
+                    de sculptures captivantes ou de photographies émouvantes,
+                    notre sélection méticuleusement curatée répondra à vos goûts
+                    et à votre esthétique. Nous nous engageons à promouvoir des
+                    talents émergents ainsi que des artistes établis, offrant ainsi
+                    une plateforme pour qu'ils puissent partager leur vision unique
+                    avec le monde
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/imgs/Porteuses d'Eau - Tableau Africain - 80 x 80 cm.jpg">
+            <div class="content">
+                <div class="author">From Cameroun</div>
+                <div class="title">DESIGN BY HENRY VENUS</div>
+                <div class="topic">INSPIRED</div>
+                <div class="des">
+                    <!-- lorem 50 -->
+                    venez decouvrir l'histoire et le quotidien de l'afrique a travers nos oeuvres
+                    Que vous soyez à la recherche de peintures vibrantes,
+                    de sculptures captivantes ou de photographies émouvantes,
+                    notre sélection méticuleusement curatée répondra à vos goûts
+                    et à votre esthétique. Nous nous engageons à promouvoir des
+                    talents émergents ainsi que des artistes établis, offrant ainsi
+                    une plateforme pour qu'ils puissent partager leur vision unique
+                    avec le monde
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- list thumnail -->
+    <div class="thumbnail">
+        <div class="item">
+            <img src="~/imgs/54868899-19d7-4d7b-820a-336b5b8c3fc0.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/imgs/aa61e5d2-3a7e-4d8a-9e66-b45c9674f395.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/imgs/pexels-chait-goli-2031774.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/imgs/Porteuses d'Eau - Tableau Africain - 80 x 80 cm.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- next prev -->
+
+    <div class="arrows">
+        <button id="prev"><</button>
+        <button id="next">></button>
+    </div>
+    <!-- time running -->
+    <div class="time"></div>
+</div>
+
+
+<section class="about_section">
+    <div class="container  ">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="detail-box">
+                    <div class="heading_container">
+                        <h2 style="color: #000; font-size: 33px; text-transform: uppercase; font-weight: bold;">
+                            A propos
+                        </h2>
+                    </div>
+                    <p>
+                        Plonger dans une symphonie de creativite sur notre site web dedie
+                        aux merveille artistique.
+                        Nous sommes passionnés par l'expression artistique
+                        sous toutes ses formes et nous croyons en son pouvoir de captiver,
+                        d'inspirer et de transformer nos vies. Notre objectif est de créer un
+                        espace en ligne où les amateurs d'art et les collectionneurs
+                        peuvent découvrir et acquérir des pièces exceptionnelles créées
+                        par des artistes talentueux du monde entier.
+                        Que vous soyez à la recherche de peintures vibrantes,
+                        de sculptures captivantes ou de photographies émouvantes,
+                        notre sélection méticuleusement curatée répondra à vos goûts
+                        et à votre esthétique. Nous nous engageons à promouvoir des
+                        talents émergents ainsi que des artistes établis, offrant ainsi
+                        une plateforme pour qu'ils puissent partager leur vision unique
+                        avec le monde
+                    </p>
+                    <a href="">
+                        Read More
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6 ">
+                <div class="img-box">
+                    <img src="~/imgs/aa61e5d2-3a7e-4d8a-9e66-b45c9674f395.jpg" alt="A propos">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<script src="~/js/Home.js"></script>

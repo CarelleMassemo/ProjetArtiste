@@ -1,0 +1,135 @@
+﻿@using ProjetArtiste1.Data.Enum
+@model ProjetArtiste1.Models.Oeuvre
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<link rel="stylesheet" href="~/css/Create.css" />
+
+@* <div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group text-center">
+                <img id="ProfilePicturePreview" class="border-info rounded-circle" style="max-width: 150px" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="nom" class="control-label"></label>
+                <input asp-for="nom" class="form-control" />
+                <span asp-validation-for="nom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="description" class="control-label"></label>
+                <input asp-for="description" class="form-control" />
+                <span asp-validation-for="description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="prix" class="control-label"></label>
+                <input asp-for="prix" class="form-control" />
+                <span asp-validation-for="prix" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="imageURL" class="control-label"></label>
+                <input asp-for="imageURL" class="form-control" />
+                <span asp-validation-for="imageURL" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dateCreation" class="control-label"></label>
+                <input asp-for="dateCreation" class="form-control" />
+                <span asp-validation-for="dateCreation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="oeuvreCategorie" class="control-label"></label>
+                <select asp-for="oeuvreCategorie" class="form-control" asp-items="Html.GetEnumSelectList<OeuvreCategorie>()"></select>
+                <span asp-validation-for="oeuvreCategorie" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div> *@
+
+<div class="row">
+    <!----------------------- Main Container -------------------------->
+    <div class="container d-flex justify-content-center align-items-center min-vh-100">
+        <!----------------------- Login Container -------------------------->
+        <div class="row border rounded-5 p-3 bg-white shadow box-area">
+            <!--------------------------- Left Box ----------------------------->
+            <div class="col-md-6 rounded-4 d-flex align-items-center flex-column left-box" style="background: #103cbe; padding-top: 2rem;">
+                <p class="text-white fs-2" style="font-weight: 600;">Affichage de l'image</p>
+                <div class="featured-image mb-3">
+                    <img id="ProfilePicturePreview" class="border-info" style="width: 100%; border-radius: 8px;" />
+                </div>
+
+            </div>
+            <!-------------------- ------ Right Box ---------------------------->
+
+            <div class="col-md-6 right-box">
+                <div class="row align-items-center">
+                    <div class="header-text mb-4">
+                        <h2>Modifier votre oeuvre</h2>
+                        <p>Effectuez vos modifications sur votre oeuvre</p>
+                    </div>
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+                        <div class="input-group mb-3">
+                            <input asp-for="nom" class="form-control form-control-lg bg-light fs-6" placeholder="Nom de l'oeuvre">
+                            <span asp-validation-for="nom" class="text-danger"></span>
+                        </div>
+                        <div class="input-group mb-1">
+                            <input asp-for="description" class="form-control form-control-lg bg-light fs-6" placeholder="Description de l'oeuvre">
+                            <span asp-validation-for="description" class="text-danger"></span>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input asp-for="prix" class="form-control form-control-lg bg-light fs-6" placeholder="Prix de l'oeuvre">
+                            <span asp-validation-for="prix" class="text-danger"></span>
+                        </div>
+                        <div class="input-group mb-1">
+                            <input asp-for="imageURL" class="form-control form-control-lg bg-light fs-6" placeholder="Image de l'oeuvre">
+                            <span asp-validation-for="imageURL" class="text-danger"></span>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input asp-for="dateCreation" class="form-control form-control-lg bg-light fs-6" placeholder="Email address">
+                            <span asp-validation-for="dateCreation" class="text-danger"></span>
+                        </div>
+                        <div class="input-group mb-1">
+                            <select asp-for="oeuvreCategorie" class="form-control form-control-lg bg-light fs-6" asp-items="Html.GetEnumSelectList<OeuvreCategorie>()"></select>
+                            <span asp-validation-for="oeuvreCategorie" class="text-danger"></span>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input type="submit" value="Save" class="btn btn-lg btn-primary w-100 fs-6" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+
+        $(document).ready(function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $("#imageURL").val();
+        })
+
+        $("#imageURL").on("change", function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $(this).val();
+        })
+    </script>
+}
+
+@* @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} *@
